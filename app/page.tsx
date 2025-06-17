@@ -82,7 +82,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center gap-2">
             <FileText className="h-6 w-6 text-blue-600" />
-            <h1 className="text-xl font-semibold text-gray-900">PayPal Receipt Generator</h1>
+            <h1 className="text-xl font-semibold text-gray-900">PayPal Receipt Generator By Stivion</h1>
           </div>
         </div>
       </header>
@@ -92,7 +92,7 @@ export default function HomePage() {
         <div className="max-w-2xl mx-auto">
           {/* Hero Section */}
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Genera Recibos de PayPal</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Genera Recibos de PayPal By Stivion</h2>
             <p className="text-lg text-gray-600 max-w-xl mx-auto">
               Herramienta educativa para crear recibos simulados de PayPal con soporte multiidioma y multidivisa.
             </p>
