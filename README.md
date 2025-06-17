@@ -34,3 +34,4 @@ git clone https://github.com/tuusuario/fake-paypal-receipt
 cd fake-paypal-receipt
 npm install
 npm run dev
+Si no Entra en https://genereadorecibos.netlify.app
