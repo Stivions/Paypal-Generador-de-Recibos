@@ -1,7 +1,7 @@
 <h1 align="center">💸 Fake PayPal Receipt Generator 💻</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg2c293eGkwemVsc2h3N2U3aTJtMGtodnRoaTV6bXE5dmwzZHFwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGOCxq1V8N7E1icuQ/giphy.gif" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVicWltdGlybWZsbHZqY2I1dml0dWo4Z3ZibnhreXZ0bmJ0NzllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9lzJDwciz6bS/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
